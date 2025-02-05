@@ -1,12 +1,11 @@
 {
-  "homepage": "https://khandoker-tahmid-sami.github.io/react-json-server-crud-",
+  "homepage": "https://khandoker-tahmid-sami.github.io/react-json-server-crud",
   "name": "react-jsonserver-crud",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
